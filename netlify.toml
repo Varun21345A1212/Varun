@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/*"
+  to = "/varun.html"
+  status = 200
